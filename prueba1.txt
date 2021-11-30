@@ -1,0 +1,12 @@
+Partida: por puntos
+Jugador 1 0
+Jugador 2 0
+Jugador 3 0
+
+Comienza el juego con una carta [3 roja]
+
+Jugador 1 coge la carta [1 amarilla]
+Jugador 2 echa la carta [3 verde]
+Jugador 3 echa la carta [7 verde]
+Jugador 1 echa la carta [tomaDos verde]
+Jugador 2 coge 2 cartas y pasa turno

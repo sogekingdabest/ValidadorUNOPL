@@ -17,7 +17,12 @@ extern int lineNumber;
 %start S
 %%
 S : EXAMPLE
-    ;
+
+puntosJugador : Jugador Puntos {}
+            ;
+
+
+Jugada :     ;
 %%
 
 int main() {
